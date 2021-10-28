@@ -1,0 +1,23 @@
+
+body{
+    background-color: #f1f5f1;
+}
+div{
+    text-align: center;
+    margin: 100px;
+    padding: 100px;
+}
+#btn{
+    border-radius: 3px;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#btn:hover{
+    background: #d162a3;
+}
+#password{
+    font-weight: 500;
+    border:  5px #00ff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
